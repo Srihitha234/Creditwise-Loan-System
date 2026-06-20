@@ -156,6 +156,10 @@ The application allows users to:
 * Receive instant loan approval predictions
 
 ---
+🚀 Live Demo
+Streamlit Application:
+
+https://creditwise-loan-system-fxl2ld3upu7npfdhzhofza.streamlit.app/
 
 ## Repository Structure
 
